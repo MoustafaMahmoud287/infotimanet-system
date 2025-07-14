@@ -1,0 +1,12 @@
+# Ignore Qt build files and user-specific settings
+build/
+*.pro.user
+*.pro.user.*
+*.autosave
+*.o
+*.obj
+*.log
+*.moc
+*.qrc
+Makefile*
+*.user

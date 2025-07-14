@@ -40,7 +40,4 @@ InfoScreen/
 - This project is currently unlicensed and for educational/demo purposes.
 
 ## 📷 Preview
-
-![TAB1](Screenshot_2025-07-14_120156.png)
-![TAB2](Screenshot_2025-07-14_120203.png)
-![TAB3](Screenshot_2025-07-14_120214.png)
+<img width="960" height="656" alt="Screenshot 2025-07-14 120156" src="https://github.com/user-attachments/assets/a0c59d1a-1c32-44aa-b057-be2e19294bc2" />

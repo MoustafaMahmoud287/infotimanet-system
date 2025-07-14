@@ -41,4 +41,4 @@ InfoScreen/
 
 ## 📷 Preview
 
-![alt text](Screenshot 2025-07-14 120156.png)
+![alt text](Screenshot2025-07-14120156.png)

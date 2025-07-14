@@ -41,4 +41,6 @@ InfoScreen/
 
 ## 📷 Preview
 
-c:\Users\MILLIONAIRE\Pictures\Screenshots\Screenshot 2025-07-14 120156.png
+![TAB1](Screenshot_2025-07-14_120156.png)
+![TAB2](Screenshot_2025-07-14_120203.png)
+![TAB3](Screenshot_2025-07-14_120214.png)

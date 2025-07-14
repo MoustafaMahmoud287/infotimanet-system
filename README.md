@@ -26,6 +26,8 @@ InfoScreen/
   - **FuelGauge**
   - **RpmGauge**
 - Qt Resource system for bundling images and assets
+  - **Trip Information control**
+  - **Cllimate control**
 - Modular C++ design with QWidget and QML hybrid interface
 
 ## 🧪 How to Run

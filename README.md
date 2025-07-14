@@ -41,4 +41,4 @@ InfoScreen/
 
 ## 📷 Preview
 
-*(Add screenshots or a demo gif here if available)*
+![alt text](<Screenshot 2025-07-14 120156.png>)
